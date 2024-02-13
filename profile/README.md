@@ -10,14 +10,14 @@ Sin más preámbulos, te invitamos a sumergirte en esta experiencia. ¡Estamos e
 En CodingFlash, nos enorgullece presentar una selección diversa de proyectos que reflejan nuestra pasión por el desarrollo. Estos proyectos son el resultado de la colaboración y el arduo trabajo de nuestros miembros, quienes se esfuerzan por aprender y crecer en un entorno que simula experiencias laborales del mundo real.
 
 ## Plataforma "Inmobiliaria Bonpland"
-<picture>
-    <a href="https://dev-inmobiliaria.netlify.app">
-        <img src="../img/InmobiliariaBonplandBanner.png">
-    </a>
-</picture>
-
 > [!NOTE]
 > Este proyecto aun está en desarrollo.
+
+<picture>
+    <a href="https://dev-inmobiliaria.netlify.app">
+        <img src="/img/InmobiliariaBonplandBanner.png">
+    </a>
+</picture>
 
 ### Descripción
 La inmobiliaria opera principalmente a través de sus oficinas físicas y busca aprovechar la tecnología para ampliar su presencia en el mercado digital. La creación de una plataforma en línea no solo mejorará su visibilidad sino también la eficiencia de sus servicios.
