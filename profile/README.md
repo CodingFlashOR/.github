@@ -46,7 +46,7 @@ El sistema de gestión de inmuebles contendrá dos tipos de usuarios:
 ### Documentación
 | Título | Descripción | 
 |----------|----------|
-| [Especifcación de requerimientos]() | Este documento detalla los requerimientos funcionales, no funcionales y el comportamiento de las diferentes interfaces del sistema. |
+| [Especifcación de requerimientos](https://drive.google.com/file/d/1rHrYdVJ7h1wPVbSSrLhgfYliH-DhmyL-/view?usp=drive_link) | Este documento detalla los requerimientos funcionales, no funcionales y el comportamiento de las diferentes interfaces del sistema. |
 | [Base de datos]()   | Este documento proporciona una visión detallada de la estructura de la base de datos utilizada en el proyecto. |
 | [Documentación de la API](https://backend-inmobiliaria-dev-rgzp.2.us-1.fl0.io/api/schema/swagger-ui/) | Esta es la documentación para la API del proyecto, que incluye detalles sobre los endpoints disponibles y los datos que se pueden enviar y recibir. |
 
