@@ -40,7 +40,7 @@ El sistema de gestión de inmuebles contendrá dos tipos de usuarios:
 - Guardado de inmuebles para usuarios.
 
 ### Repositorios
-- [Repositorio Backend](https://github.com/CodingFlashOR/backend-inmobiliaria/tree/develop).
+- [Repositorio Backend](https://github.com/CodingFlashOR/api-inmobiliaria/tree/develop).
 - [Repositorio Frontend](https://github.com/CodingFlashOR/frontend-inmobiliaria/tree/dev).
 
 ### Documentación
