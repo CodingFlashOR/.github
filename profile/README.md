@@ -64,8 +64,12 @@ El sistema de gestión de inmuebles contendrá dos tipos de usuarios:
 | [Documentación de la API](https://backend-inmobiliaria-dev-rgzp.2.us-1.fl0.io/api/schema/swagger-ui/) | Esta es la documentación para la API del proyecto, que incluye detalles sobre los endpoints disponibles y los datos que se pueden enviar y recibir. |
 
 ### 1.1.7. Colaboradores
-| Nombre | Enlaces | Rol | 
-|----------|----------|----------|
+| Nombre | Enlaces | Roles | 
+|----------|:--------:|:--------:|
 | Yoana Avaro | <a href="https://www.linkedin.com/in/yoana-avaro/" target="_blank">LinkedIn</a> | Diseño UX/UI |
+| Maria Fuentes | <a href="https://www.linkedin.com/in/maria-fuentes-112920256/" target="_blank">LinkedIn</a> - <a href="https://github.com/Mmff07" target="_blank">Git Hub</a> - <a href="https://www.behance.net/mariafuentes22" target="_blank">Behance</a> | Diseño UX/UI |
 | Ignacio Nicolas Basilio Buracco | <a href="https://github.com/NachoBasilio" target="_blank">Git Hub</a> - <a href="https://www.linkedin.com/in/ignacio-nicolas-basilio-buracco/" target="_blank">LinkedIn</a> | Frontend |
-| Carlos Andres Aguirre Ariza | <a href="https://github.com/The-Asintota" target="_blank">Git Hub</a> - <a href="https://www.linkedin.com/in/carlosaguirredev/" target="_blank">LinkedIn</a> | Backend |
+| Jose Lozada | <a href="https://github.com/lozada07" target="_blank">Git Hub</a> - <a href="" target="_blank">LinkedIn</a> | Frontend |
+| Carlos Andres Aguirre Ariza | <a href="https://github.com/The-Asintota" target="_blank">Git Hub</a> - <a href="https://www.linkedin.com/in/carlosaguirredev/" target="_blank">LinkedIn</a> | Backend - Frontend |
+| Gabriela Patiño | <a href="https://github.com/Gabyp05" target="_blank">Git Hub</a> - <a href="https://www.linkedin.com/in/gabyp05/" target="_blank">LinkedIn</a> | QA |
+| Carolina Pascua | <a href="https://github.com/CarolinaPascua" target="_blank">Git Hub</a> - <a href="https://www.linkedin.com/in/carolinalidiapascua/" target="_blank">LinkedIn</a> | QA |
