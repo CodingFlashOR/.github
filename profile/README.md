@@ -1,7 +1,5 @@
 <div>
-    <a href="">
-        <img src="/images/CodingFlashBanner.png">
-    </a>
+    <img src="/images/CodingFlashBanner.png">
 </div>
 
 # ¡Bienvenido a CodingFlash!
@@ -47,31 +45,28 @@ En CodingFlash, nos enorgullece presentar una selección diversa de proyectos qu
 
 #### 1.1.1. Descripción
 
-La inmobiliaria opera principalmente a través de sus oficinas físicas y busca aprovechar la tecnología para tener presencia en el mercado digital. La creación de una plataforma en línea no solo mejorará su visibilidad sino también la eficiencia de sus servicios.
-
-El sistema de gestión inmobiliaria se integra como una extensión de las operaciones tradicionales de la inmobiliaria. La plataforma en línea le permitirá ampliar su alcance y ofrecer servicios en línea a sus clientes sin reemplazar por completo las interacciones presenciales en sus oficinas físicas. La perspectiva del producto se centra en proporcionar una experiencia en línea atractiva y eficiente para los usuarios finales, al tiempo que facilita la administración y el flujo de trabajo para los administradores de la inmobiliaria.
+La plataforma web se integra como una **extensión** de las operaciones tradicionales de la Inmobiliaria Bonpland. Esta plataforma en línea permitirá a la inmobiliaria ampliar su alcance y ofrecer servicios de manera digital, sin reemplazar por completo las interacciones presenciales en sus oficinas físicas. La perspectiva del producto se centra en proporcionar una experiencia en línea atractiva y eficiente para los usuarios finales, incluyendo paneles de búsqueda por filtros, al tiempo que facilita la administración y el flujo de trabajo para los empleados de la inmobiliaria. La plataforma permitirá a las constructoras y agentes inmobiliarios **gestionar proyectos o inmuebles**, mejorar la comunicación y coordinación entre todas las partes, y optimizar los procesos operativos para aumentar la eficiencia y reducir errores.
 
 #### 1.1.2. Características de los usuarios
 
-El sistema de gestión de inmuebles contendrá dos tipos de usuarios:
+El sistema de gestión de inmuebles está diseñado para atender a tres tipos principales de usuarios, cada uno con diferentes razones o motivaciones por las cuales utilizarían el sistema y lo que esperan lograr con su uso.
 
-- **Buscadores de inmuebles:** Estos son los usuarios que buscan comprar o arrendar un inmueble. Son uno de los clientes a los cuales la inmobiliaria ofrece sus servicios.
-- **Propietarios de inmuebles:** Estos son los propietarios de inmuebles que buscan poner a la venta o en arriendo sus propiedades a través de la inmobiliaria. Son los clientes que proporcionan el inventario de propiedades para la inmobiliaria.
-- **Administradores:** Son los individuos que manejan la plataforma online de la inmobiliaria, pueden ser empleados de la misma que se encargan de administrar la plataforma web y las necesidades de los clientes (buscadores y propietarios de inmuebles).
+- **Buscadores:** Estos son los usuarios que buscan invertir en proyectos inmobiliarios de constructoras o adquirir inmuebles. Pueden ser personas individuales, parejas, familias, inversores o empresas.
+- **Entidades inmobiliarias:** Estos usuarios representan a constructoras e inmobiliarias, dedicados a ofrecer productos inmobiliarios a través de la plataforma. Las inmobiliarias pueden gestionar tanto casas como departamentos, disponibles para la venta o alquiler. Por su parte, las constructoras se encargan de gestionar proyectos inmobiliarios en diversas etapas: desde la fase de planificación hasta la construcción y entrega, que pueden estar en planos, en proceso de construcción o listos para entrega inmediata.
+- **Administradores:** Estos son los empleados de la inmobiliaria responsable de administrar y mantener la plataforma. Su función es garantizar que el sistema funcione sin problemas y que tanto los usuarios buscadores como las constructoras puedan utilizar la plataforma de manera efectiva.
 
 #### 1.1.3. Requerimientos funcionales
-
 - Registro de usuarios.
-- Autenticación.
-- Actualizar la información de un usuario.
-- Eliminar un usuario.
+- Sistema de autenticación con JWT.
+- Actualizar la información de perfil para usuarios.
+- Eliminar cuenta.
+- Activación de cuenta.
 - Restablecer contraseña.
-- Confirmar número telefónico.
-- Activación de cuenta de usuarios vía correo electrónico.
-- Filtrado para la búsqueda de inmuebles.
-- Guardado de inmuebles para usuarios.
+- Confirmción de número telefónico.
+- Sistema de filtros de busqueda para inmuebles.
 - Funcionalidades para administradores.
 - Sistema de envío de notificaciones para usuarios.
+- Sistema de envio de correos electronicos.
 
 #### 1.1.4. Tecnologías utilizadas
 
@@ -88,8 +83,8 @@ El sistema de gestión de inmuebles contendrá dos tipos de usuarios:
 
 | Título | Descripción | 
 |----------|----------|
-| [Especificación de requerimientos](https://drive.google.com/file/d/1rHrYdVJ7h1wPVbSSrLhgfYliH-DhmyL-/view?usp=drive_link) | Este documento detalla los requerimientos funcionales, no funcionales y el comportamiento de las diferentes interfaces del sistema. |
-| [Base de datos]() | Este documento proporciona una visión detallada de la estructura de la base de datos utilizada en el proyecto. |
+| [Especifcación de requerimientos](https://writer.zoho.com/writer/open/gvaj1411213d7d4bb4c818860a3bea679ecbb) | Este documento detalla los requerimientos funcionales, no funcionales y el comportamiento de las diferentes interfaces del sistema. |
+| [Base de datos](https://drive.google.com/file/d/1uJAsYcVnTEviwOq5JZ_q_2VWnpvgPfBd/view?usp=sharing)   | Esquema de la base de datos del proyecto. |
 | [Documentación de la API](https://carlosandresaguirreariza.pythonanywhere.com/) | Esta es la documentación para la API del proyecto, que incluye detalles sobre los endpoints disponibles y los datos que se pueden enviar y recibir. |
 
 #### 1.1.7. Colaboradores
@@ -98,14 +93,11 @@ A continuación se presentan a las personas que están aportando al desarrollo d
 
 | Nombre | Enlaces | Roles | 
 |----------|:--------:|:--------:|
-| Yoana Avaro | [LinkedIn](https://www.linkedin.com/in/yoana-avaro/) | Diseño UX/UI |
-| Maria Fuentes | [LinkedIn](https://www.linkedin.com/in/maria-fuentes-112920256/) - [GitHub](https://github.com/Mmff07) - [Behance](https://www.behance.net/mariafuentes22) | Diseño UX/UI |
+| Lucas A Bravi | [LinkedIn](https://www.linkedin.com/in/lucasandr%C3%A9sbravi/) - [Portafolio](https://lucasbravidi1062b1.myportfolio.com/) | Diseño UX/UI |
 | Flor Rivas Luna | [LinkedIn](https://www.linkedin.com/in/floridesign/) - [GitHub](https://github.com/FlorRivas) - [Behance](https://www.behance.net/floridesign) | Diseño UX/UI |
 | Ignacio Nicolas Basilio Buracco | [GitHub](https://github.com/NachoBasilio) - [LinkedIn](https://www.linkedin.com/in/ignacio-nicolas-basilio-buracco/) | Frontend |
-| Jose Lozada | [GitHub](https://github.com/lozada07) | Frontend |
 | Carlos Andres Aguirre Ariza | [GitHub](https://github.com/The-Asintota) - [LinkedIn](https://www.linkedin.com/in/carlosaguirredev/) | Backend - Frontend |
 | Gabriela Patiño | [GitHub](https://github.com/Gabyp05) - [LinkedIn](https://www.linkedin.com/in/gabyp05/) | QA |
-| Carolina Pascua | [GitHub](https://github.com/CarolinaPascua) - [LinkedIn](https://www.linkedin.com/in/carolinalidiapascua/) | QA |
 
 ### 1.2. MillaExtra
 
