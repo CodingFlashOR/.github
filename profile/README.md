@@ -128,7 +128,7 @@ En MillaExtra, creemos que el aprendizaje no debería tener límites. Hemos crea
 #### 1.2.4. Tecnologías utilizadas
 
 <div>
-    <img src="https://i.ibb.co/pRPtMcF/Technologies-Frontend-IB.png">
+    <img src="https://i.ibb.co/RTTqvKp/Technologies-Frontend-IB.png"/>
 </div>
 
 #### 1.2.5. Repositorios
