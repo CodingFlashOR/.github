@@ -60,13 +60,14 @@ El sistema de gestión de inmuebles está diseñado para atender a tres tipos pr
 - Sistema de autenticación con JWT.
 - Actualizar la información de perfil para usuarios.
 - Eliminar cuenta.
-- Activación de cuenta.
+- Activación de la cuenta.
 - Restablecer contraseña.
-- Confirmción de número telefónico.
-- Sistema de filtros de busqueda para inmuebles.
+- Confirmación de un número telefónico.
+- Sistema de filtros de búsqueda para inmuebles.
 - Funcionalidades para administradores.
 - Sistema de envío de notificaciones para usuarios.
-- Sistema de envio de correos electronicos.
+- Sistema de envío de correos electrónicos.
+- Gestión de permisos de usuarios.
 
 #### 1.1.4. Tecnologías utilizadas
 
@@ -84,7 +85,7 @@ El sistema de gestión de inmuebles está diseñado para atender a tres tipos pr
 | Título | Descripción | 
 |----------|----------|
 | [Especifcación de requerimientos](https://writer.zoho.com/writer/open/gvaj1411213d7d4bb4c818860a3bea679ecbb) | Este documento detalla los requerimientos funcionales, no funcionales y el comportamiento de las diferentes interfaces del sistema. |
-| [Base de datos](https://drive.google.com/file/d/1uJAsYcVnTEviwOq5JZ_q_2VWnpvgPfBd/view?usp=sharing)   | Esquema de la base de datos del proyecto. |
+| [Base de datos]([https://drive.google.com/file/d/1uJAsYcVnTEviwOq5JZ_q_2VWnpvgPfBd/view?usp=sharing](https://app.diagrams.net/?title=EsquemaDB.drawio#Uhttps%3A%2F%2Fdrive.google.com%2Fuc%3Fid%3D1uJAsYcVnTEviwOq5JZ_q_2VWnpvgPfBd%26export%3Ddownload))   | Esquema de la base de datos del proyecto. |
 | [Documentación de la API](https://carlosandresaguirreariza.pythonanywhere.com/) | Esta es la documentación para la API del proyecto, que incluye detalles sobre los endpoints disponibles y los datos que se pueden enviar y recibir. |
 
 #### 1.1.7. Colaboradores
@@ -97,7 +98,6 @@ A continuación se presentan a las personas que están aportando al desarrollo d
 | Flor Rivas Luna | [LinkedIn](https://www.linkedin.com/in/floridesign/) - [GitHub](https://github.com/FlorRivas) - [Behance](https://www.behance.net/floridesign) | Diseño UX/UI |
 | Ignacio Nicolas Basilio Buracco | [GitHub](https://github.com/NachoBasilio) - [LinkedIn](https://www.linkedin.com/in/ignacio-nicolas-basilio-buracco/) | Frontend |
 | Carlos Andres Aguirre Ariza | [GitHub](https://github.com/The-Asintota) - [LinkedIn](https://www.linkedin.com/in/carlosaguirredev/) | Backend - Frontend |
-| Gabriela Patiño | [GitHub](https://github.com/Gabyp05) - [LinkedIn](https://www.linkedin.com/in/gabyp05/) | QA |
 
 ### 1.2. MillaExtra
 
